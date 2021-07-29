@@ -17,7 +17,7 @@ namespace IndianStateCensusProblem
         Dictionary<string, CensusDTO> dataDict;
         /// <summary>
         /// Method for load data and add into dictionary
-        /// Method for load data and add into dictionary
+        /// 
         /// </summary>
         /// <param name="filePath"></param>
         /// <param name="csvHeaders"></param>
