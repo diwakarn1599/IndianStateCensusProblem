@@ -6,7 +6,7 @@ namespace IndianStateCensusProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initial Commit with welcome message");
+            Console.WriteLine("Initial Commit with Welcome Message");
         }
     }
 }
